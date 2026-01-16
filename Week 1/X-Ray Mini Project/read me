@@ -1,0 +1,43 @@
+# Synthetic Chest X-Ray Disease Classification (DenseNet-121)
+
+This project demonstrates an **end-to-end pipeline** for generating **synthetic chest X-ray images** using a **generative AI model** and evaluating them using a **pretrained deep learning classifier (DenseNet-121)**.
+
+The goal of this project is **not clinical diagnosis**, but to showcase:
+- Synthetic data generation
+- Dataset organization
+- Model inference (testing only)
+- Accuracy evaluation
+- Result visualization and export
+
+---
+
+### Key Features
+- Synthetic chest X-ray dataset generation using a pretrained diffusion model
+- 10 disease/condition classes
+- No real patient data (privacy-safe)
+- Testing-only pipeline (no model training)
+- Uses pretrained DenseNet-121 for inference
+- Displays and saves prediction results
+- Computes accuracy on selected test samples
+
+---
+
+The dataset contains the following **10 classes**:
+
+1. Normal lungs (healthy anatomy)
+2. Pneumonia
+3. COVID-like opacities
+4. Lung opacity
+5. Pleural effusion
+6. Pneumothorax
+7. Lung nodules
+8. Lung fibrosis
+9. Cardiomegaly
+10. Medical devices (pacemaker, tubes)
+
+Each class contains synthetically generated chest X-ray images.
+
+---
+
+## 📁 Project Structure
+
