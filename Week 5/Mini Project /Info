@@ -1,0 +1,25 @@
+Mini Project Brief
+Project Title:CineMorph: AI-Based Cinematic Portrait Transformation
+Subject:Introduction to Generative AI
+Subject Code: CSET419
+Submitted By:
+Name: Amardeep Singh
+Enrollment No: E23CSEU2189
+
+Project Description
+
+This mini-project focuses on the implementation of an AI-powered cinematic portrait transformation system using pretrained diffusion models. The system takes a single input image and generates multiple cinematic variations such as cartoon style, realistic photography, Pixar-style rendering, anime art, background modification, and Hollywood movie scene effects.
+
+The project utilizes Stable Diffusion XL in a Google Colab environment to perform image-to-image transformation. By applying prompt engineering and controlled transformation strength, the model preserves facial identity while modifying artistic style and background settings.
+
+Objective
+
+To understand diffusion-based generative models.
+
+To implement image-to-image transformation using pretrained AI models.
+
+To generate multiple cinematic styles from a single portrait.
+
+
+Conclusion
+The project successfully demonstrates the practical application of Generative AI techniques in creative image transformation. It highlights how pretrained diffusion models can produce high-quality cinematic outputs while maintaining structural consistency of the input image.
